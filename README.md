@@ -5,8 +5,9 @@ Hello!, My name is Subhan Kashif, i am 13 years old Fullstack developer, I am 8t
 - HTML
 - CSS
 - Javascript
-- Python
-- React (Basic)
-- ExpressJs (Basic)
-- NodeJs (Basic)
-  
+  not completed = [
+- MongoDb
+- Express
+- React
+- NodeJs
+  ]
